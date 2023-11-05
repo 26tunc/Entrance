@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\dene\dene\bin\Debug\dene.exe.config
+C:\Users\Gigabyte\source\repos\dene\dene\bin\Debug\dene.exe
+C:\Users\Gigabyte\source\repos\dene\dene\bin\Debug\dene.pdb
+C:\Users\Gigabyte\source\repos\dene\dene\obj\Debug\dene.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\source\repos\dene\dene\obj\Debug\dene.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\dene\dene\obj\Debug\dene.exe
+C:\Users\Gigabyte\source\repos\dene\dene\obj\Debug\dene.pdb
